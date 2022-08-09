@@ -3,10 +3,8 @@
 
 namespace trd\apply\forms;
 
-use jojoe77777\FormAPI\CustomForm;
 use jojoe77777\FormAPI\ModalForm;
 use pocketmine\player\Player;
-use pocketmine\Server;
 use trd\apply\Apply;
 
 class AdminSelectedApply{
