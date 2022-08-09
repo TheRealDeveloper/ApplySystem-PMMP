@@ -1,0 +1,11 @@
+name: ApplySystem
+main: trd\apply\Apply
+api: 4.0.0
+version: 1.0
+author: TheRealDeveloper
+
+permissions:
+  apply.command.admin:
+    default: op
+  apply.command:
+      default: true
