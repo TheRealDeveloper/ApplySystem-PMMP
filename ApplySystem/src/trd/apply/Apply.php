@@ -17,6 +17,6 @@ class Apply extends PluginBase{
     protected function onEnable(): void{
         self::$applys = new Config($this->getDataFolder()."applys.yml", 2);
         self::$forms = new Config($this->getDataFolder()."forms.yml", 2);
-        Server::getInstance()->getCommandMap()->register("", new applycommand("apply", "öffnet das Apply menu", "", [], "", "apply.command"));
+        Server::getInstance()->getCommandMap()->register("", new applycommand("apply", "pens the apply menu", "", [], "", "apply.command"));
     }
 }
