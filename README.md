@@ -1,4 +1,4 @@
-## ApplySystem-PMMP Commands / Permissions
+## ApplySystem-PMMP Commands <> Permissions
 
 | Default command | Parameter | Description | Default Permission |
 | :-----: | :-------: | :---------: | :-------: |
