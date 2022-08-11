@@ -2,7 +2,7 @@ name: ApplySystem
 main: trd\apply\Apply
 api: 4.0.0
 version: 1.0
-author: TheRealDeveloper
+author: TheRealDeveloper-TRD
 
 permissions:
   apply.command.admin:
